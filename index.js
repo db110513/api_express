@@ -1,11 +1,16 @@
+// importa app
 const app = require("./app")
 
+// crea una ruta get a / qui respon el missatge 'Hola des...'
 app.get('/', (req, res) => {
     
-    res.send('Hello from the server !');
+    res.send('Hola des del servidor !');
 
 });
 
-app.listen(3000,() => {
-    console.log("Express server running at 3000");
+const port = 3100;
+
+// activa el servidor al port especificat
+app.listen(port,() => {
+    console.log(`Servidor express al port ${port}`);
 });
