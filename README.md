@@ -1,1 +1,3 @@
-Backend web application framework for building RESTful APIs with Node.js.
+**express_server**
+
+Projecte en el que creo un servidor fent servir el framework Express de Node JS.
