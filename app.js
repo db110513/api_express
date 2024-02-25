@@ -2,8 +2,7 @@
 // mostro la creació d'un servidor fent servir el framework Express de Node JS
 
 /* Inicio el projecte > npm init -y
- Instal·lo el mòdul necessaris pel projecte > npm i express
- Executo el servidor > node .\index.js (nom de l'arxiu que conté les rutes del servidor) */
+ Instal·lo el mòdul necessari pel projecte > npm i express */
 
 // faig servir el mòdul express per tal de crear el servidor
 const express = require('express');
