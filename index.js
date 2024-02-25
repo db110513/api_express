@@ -1,3 +1,6 @@
+
+// mostro la creació d'un servidor fent servir el framework Express de Node JS
+
 // importa app
 const app = require("./app")
 
@@ -10,7 +13,7 @@ app.get('/', (req, res) => {
 
 const port = 3100;
 
-// activa el servidor al port especificat
+// activa el servidor al port especificat (3100)
 app.listen(port,() => {
     console.log(`Servidor express al port ${port}`);
 });
