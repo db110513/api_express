@@ -1,7 +1,9 @@
-# express_server
+# PÀRQUING
 
-Simple project of an API creation done with Express using Node JS.
+Creació d'una API fent servir el mòdul Express que forma part de npm i aquest  de Node JS.
 
-Compiled code:
+Gestiona cotxes en un pàrquing amb les operacions CRUD.
 
-https://www.loom.com/share/6fc0ae8d2fad4b9fadb32365a7fb51f1
+Codi compilat:
+
+https://www.loom.com/share/71c6e088633440308addd82f946ad71d
